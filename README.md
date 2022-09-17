@@ -11,3 +11,5 @@ The detection of human emotions via voice and speech patterns has a variety of a
 
 ## Proposed Solution
 The emotion recognition classification models given here are based on a deep learning approach based on CNN, SVM, and MLP classifiers. The key characteristic is that the MFCC, sometimes known as the "spectrum of a spectrum," is the only feature used to train the model. A total of 40 features have been retrieved from each audio file. Each audio file was converted to a floating-point time series to create the functionality. The time series was then converted into an MFCC sequence. The MFCC array has been transposed, and the arithmetic mean on its horizontal axis has been calculated.
+
+![image](https://i.imgur.com/PpA7yKh.png)
