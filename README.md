@@ -1,5 +1,5 @@
 # <p align = 'center'> Speech Emotion Recognition using CNN, ANN, and SVM</p> 
-
+![image](https://i.imgur.com/kVjepzA.png)
 
 ## Goal
 The goal of this project is to detect the emotions produced by the speaker while he or she is speaking. Speech generated in a condition of fear, rage, or delight, for example, becomes loud and quick, with a greater and wider range of pitch, but speech produced in a state of grief or exhaustion is slow and low-pitched. The goal of the presented models is to identify only the emotion in the audio recording that has a higher value. To have a machine classify feelings, various ways have been tried, such as computer vision or text analytics. Our goal in this project is to use pure audio data while considering MFCC.
